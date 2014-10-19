@@ -13,3 +13,8 @@ Things I Learned
 
 Twitter APIs are hard
 Python with HTML is hard
+
+Progress
+========
+
+DONE! I just need a way to collect data for the neural network and add CSS to the webpage. I also need to upload my code to here.
